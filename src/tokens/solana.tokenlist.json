@@ -278,6 +278,21 @@
         "twitter": "https://twitter.com/lattenft"
       }
     },
+      {
+      "chainId": 101,
+      "address": "B7RDhZ2iqE4FEwK5nfcZ9r2xhVL6rQJCo1dcjDXnF688",
+      "symbol": "DRIFT",
+      "name": "DriftCoin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ChvvzHyRqCHnLVwMNz8amvQwgVLD8AELV7RgcFAxEhAf/logo.png",
+      "tags":[],
+      "extensions": {
+        "website": "https://driftcoin.org",
+        "twitter": "https://twitter.com/driftcoinorg"
+        "telegram": "https://t.me/driftcoinorg",
+        "discord": "https://discord.gg/stKm5E9SuF"
+      }
+    },
     {
       "chainId": 101,
       "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
